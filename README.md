@@ -15,4 +15,5 @@
 📫 How to reach me
 
 LinkedIn: https://www.linkedin.com/in/diana-duisenbaeva-14358b372/
+
 Email: diana.duisenbaeva@icloud.com  
