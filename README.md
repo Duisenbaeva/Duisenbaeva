@@ -12,6 +12,15 @@
 - Always curious to try new mobile technologies 🚀  
 
 
+👩‍💻 Projects:
+- Pexels Image Search App (built an iOS app using UIKit and the Pexels API for searching and viewing
+high-quality images)
+- Furniture Shop App (designed and developed a furniture shopping app using SwiftUI)
+- Reading Tracker App (created a productivity app to help users track their reading sessions)
+- Math Games App (developed an educational app offering multiple math-based mini-games)
+
+
+
 📫 How to reach me
 
 LinkedIn: https://www.linkedin.com/in/diana-duisenbaeva-14358b372/
