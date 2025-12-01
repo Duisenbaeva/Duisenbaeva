@@ -7,7 +7,7 @@
 
 
 💼 Experience
-- Built multiple mobile apps using Flutter (personal & study projects)  
+- Built multiple mobile apps using Swift (personal & study projects)  
 - Focused on writing clean, reusable, and maintainable code 
 - Always curious to try new mobile technologies 🚀  
 
